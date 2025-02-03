@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "messageformat": "2.3.0"
+    "messageformat": "npm:@messageformat/core@3.0.0"
   }
 }
